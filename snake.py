@@ -113,4 +113,3 @@ while True:
 curses.endwin()
 print "Game over!"
 print "Your score is %d" %snake.score
-print "Remember: Xiang Li is a SB!"
